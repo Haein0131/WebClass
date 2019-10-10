@@ -1,0 +1,26 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+ body{
+   color:navy;
+   background-color:lightblue;
+ }
+
+ 
+
+header {
+
+  padding: 156px 0 100px;
+
+  background: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/S15GBCm/videoblocks-purple-triangles-abstract-background-animation-loop-for-your-logo-or-text-technology-background-futuristic-background-channel-show-sport-and-news-background-game-music-and-fashion-background_rrgdg2aql_thumbnail-full01.png);
+  background-repeat:no-repeat;
+  background-size:auto;
+  background-position: center;
+}
+
+section {
+  padding: 150px 0;
+}
